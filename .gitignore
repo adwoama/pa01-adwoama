@@ -1,0 +1,42 @@
+# Prerequisites
+*.d
+build/
+cmake-build-debug/
+.idea/
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+       
+sample_training_1000.csv
+sample_training_50.csv
+small_sample_test_data.csv
+small_sample_test_sentiment.csv
+small_sample_train.csv
+
